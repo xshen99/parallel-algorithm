@@ -1,3 +1,3 @@
 # parallel-algorithm
-Implement parallel bitonic sort
-For cse702 seminar
+Implement parallel bitonic sort.
+For cse702 seminar.
